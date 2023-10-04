@@ -3,4 +3,4 @@
 - 🌱 estou aprendendo programação
 - 👯 procuro colaborar em matematica
 - 🤔 estou procurando ajuda com professores
-- 😄 Pronouns:dele/dela
+- 😄
